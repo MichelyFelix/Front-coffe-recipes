@@ -44,10 +44,4 @@ Contributions to Coffee Recipes are welcome! If you'd like to contribute, please
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any questions or inquiries, please contact [email](mailto:devLuanpaiva@gmail.com).
-
----
-
 Feel free to customize this README further to suit your project's specific details or requirements!
