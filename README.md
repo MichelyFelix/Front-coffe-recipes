@@ -1,6 +1,6 @@
 # Coffee Recipes
 
-Coffee Recipes is a project developed for the Object-Oriented Systems Analysis and Design course as part of the Bachelor of Information Technology program at UFERSA. It is a system for coffee recipes with caffeine control that simulates a social network where each user can register their coffee recipes, including title, description, ingredients, caffeine amount, and preparation method. Users can search for recipes, view a feed with all users' recipes, and even like recipes.
+Coffee Recipes it is a system for coffee recipes with caffeine control that simulates a social network where each user can register their coffee recipes, including title, description, ingredients, caffeine amount, and preparation method. Users can search for recipes, view a feed with all users' recipes, and even like recipes.
 
 ## Technologies Used
 
