@@ -11,9 +11,6 @@ Coffee Recipes is a project developed for the Object-Oriented Systems Analysis a
 - Sass: ^1.70.0
 - SweetAlert2: ^11.10.4
 
-## API
-
-This project consumes an API for managing data, which is hosted at [Coffee Back API](https://github.com/EmsonFranca/coffee_back).
 
 ## Features
 
@@ -24,15 +21,6 @@ This project consumes an API for managing data, which is hosted at [Coffee Back 
 - View a feed with all recipes from users
 - Responsive design for different devices
 
-## Getting Started
-
-To get started with Coffee Recipes, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/Luan029/Coffee_recipes.git`
-2. Navigate to the project directory: `cd coffee-recipes`
-3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
-5. Access the application in your browser at `http://localhost:3000`
 
 ## Usage
 
